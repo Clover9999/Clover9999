@@ -8,6 +8,14 @@
 [![steam](	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199537978032)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aumgz490qm27ujqn6ck31poai?si=b2b8d9a3b0f5441b&nd=1&dlsi=2a5ec08816854fe7)
 
+![Clover9999 GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover9999&show_icons=true&theme=radical)
+
+
+
+
+
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">

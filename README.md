@@ -12,9 +12,13 @@
 [![steam](	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199537978032)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aumgz490qm27ujqn6ck31poai?si=b2b8d9a3b0f5441b&nd=1&dlsi=2a5ec08816854fe7)
 
-![Clover9999 GitHub stats](https://github-readme-stats.vercel.app/api?username=Clover9999&show_icons=true&theme=synthwave)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clover9999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clover9999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
 
 

@@ -18,9 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clover9999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://youtube.com)
+
 
 
 

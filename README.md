@@ -8,9 +8,10 @@
   </a>
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoni-salvador-607630324/)
 [![WhattsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/61i991)
 [![steam](	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199537978032)
-[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aumgz490qm27ujqn6ck31poai?si=b2b8d9a3b0f5441b&nd=1&dlsi=2a5ec08816854fe7)
+
 
 
 <div align="center">

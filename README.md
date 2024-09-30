@@ -58,7 +58,7 @@ Atualmente, estou me aprofundando em:
 
 ## 📫 Como entrar em contato
 
-- **Email**: [seu-email@dominio.com](mailto:seu-email@dominio.com)
+- **Email**: [seu-email@dominio.com](mailto:antoniantonisalvador@gmail.com)
 - **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 - **Portfólio**: [seu-site.com](https://seu-site.com)
 

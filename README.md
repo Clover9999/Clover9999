@@ -1,6 +1,8 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=clover9999&color=ff69b5"><br>
-<div align="center">
-  <a href="https://github.com/andreinaoliveira">
+ <div align="center">
+
+ ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=seu-usuario&color=green)
+
+</div>
     
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,14 +10,63 @@
   </a>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoni-salvador-607630324/)
-[![WhattsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/61i991)
-[![steam](	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199537978032)
-
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clover9999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoni-salvador-607630324/)
+  [![WhattsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/61i991)
+  [![steam](	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199537978032)
+
+</div>
+
+# 👋 Olá, sou Antoni! 
+
+Bem-vindo(a) ao meu perfil do GitHub! Sou apaixonado por tecnologia, design de interfaces e resolver problemas através de código. Estou sempre buscando aprender e desenvolver soluções criativas, seja para projetos pessoais ou profissionais.
+
+## 🚀 Sobre mim
+
+- 🎓 Atualmente, estou cursando **[Seu Curso]** na **[Sua Universidade]**.
+- 💻 Focado em desenvolvimento **frontend**, com experiência em **HTML, CSS, JavaScript** e frameworks como **React**.
+- 🐍 Desenvolvedor entusiasta de **Python**, criando soluções práticas e automatizações.
+- 🎯 Tenho interesse em **UI/UX design**, buscando sempre criar interfaces amigáveis e funcionais.
+
+## 📂 Projetos
+
+Aqui estão alguns dos projetos em que estou trabalhando:
+
+- **[Ursinho Fluffyz](https://github.com/seu-usuario/ursinho-fluffyz)** - Um projeto interativo com sons aconchegantes e movimentos realistas.
+- **[Conversor de Arquivos para PDF](https://github.com/seu-usuario/conversor-pdf)** - Uma aplicação web que converte arquivos para o formato PDF com simplicidade.
+- **[IMC Calculator](https://github.com/seu-usuario/imc-calculator)** - Um projeto para calcular o Índice de Massa Corporal de forma rápida e intuitiva.
+- **[Jogo da Cobrinha](https://github.com/seu-usuario/snake-game)** - Uma recriação do clássico jogo da cobrinha usando HTML, CSS e JavaScript.
+
+## 🌱 O que estou aprendendo
+
+Atualmente, estou me aprofundando em:
+
+- **JavaScript Avançado**: Para construir aplicações mais interativas e dinâmicas.
+- **Node.js**: No backend, para entender melhor como construir APIs e lidar com banco de dados.
+- **Design Responsivo**: Criando interfaces que se adaptam a qualquer dispositivo, com foco em acessibilidade.
+
+## ✨ Curiosidades
+
+- 🎮 Quando não estou codando, adoro jogar videogame e explorar novos jogos.
+- 📚 Também sou fascinado por livros de ficção científica e séries de suspense.
+- 🐱 E claro, sou um amante de gatos – eles estão sempre por perto quando estou codando!
+
+## 📫 Como entrar em contato
+
+- **Email**: [seu-email@dominio.com](mailto:seu-email@dominio.com)
+- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **Portfólio**: [seu-site.com](https://seu-site.com)
+
+---
+
+
+
+
+
+<!-- <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Clover9999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clover9999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 

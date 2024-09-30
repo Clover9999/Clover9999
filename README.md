@@ -58,8 +58,8 @@ Atualmente, estou me aprofundando em:
 
 ## 📫 Como entrar em contato
 
-- **Email**: [seu-email@dominio.com](mailto:antoniantonisalvador@gmail.com)
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **Email**: [antoniantonisalvador@gmail.com](mailto:antoniantonisalvador@gmail.com)
+- **LinkedIn**: https://www.linkedin.com/in/antoni-salvador-607630324/
 - **Portfólio**: [seu-site.com](https://seu-site.com)
 
 ---

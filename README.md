@@ -24,11 +24,11 @@
 
 # 👋 Olá, sou Antoni! 
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou apaixonado por tecnologia, design de interfaces e resolver problemas através de código. Estou sempre buscando aprender e desenvolver soluções criativas, seja para projetos pessoais ou profissionais.
+Bem-vindo(a) ao meu perfil do GitHub! Gosto muito de trabalhar com tecnologia, design de interfaces e resolver problemas através de código. Estou sempre buscando aprender e desenvolver soluções criativas, seja para projetos pessoais ou profissionais.
 
 ## 🚀 Sobre mim
 
-- 🎓 Atualmente, estou cursando **[Seu Curso]** na **[Sua Universidade]**.
+- 🎓 Atualmente, estou cursando **[Engenharia da Computação]** na **[Uninter]**.
 - 💻 Focado em desenvolvimento **frontend**, com experiência em **HTML, CSS, JavaScript** e frameworks como **React**.
 - 🐍 Desenvolvedor entusiasta de **Python**, criando soluções práticas e automatizações.
 - 🎯 Tenho interesse em **UI/UX design**, buscando sempre criar interfaces amigáveis e funcionais.

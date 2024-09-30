@@ -53,8 +53,8 @@ Atualmente, estou me aprofundando em:
 ## ✨ Curiosidades
 
 - 🎮 Quando não estou codando, adoro jogar videogame e explorar novos jogos.
-- 📚 Também sou fascinado por livros de ficção científica e séries de suspense.
-- 🐱 E claro, sou um amante de gatos – eles estão sempre por perto quando estou codando!
+- 📚 Também sou fascinado por livros de estudo bíbilco e tudo que envolve o criador.
+- 💪 Gosto muito de treinar e desenvolver meu físico!
 
 ## 📫 Como entrar em contato
 

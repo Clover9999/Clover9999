@@ -60,7 +60,7 @@ Atualmente, estou me aprofundando em:
 
 - **Email**: [antoniantonisalvador@gmail.com](mailto:antoniantonisalvador@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/antoni-salvador-607630324/
-<!-- - **Portfólio**: [seu-site.com](https://seu-site.com) -->
+- **WhattsApp**: [seu-site.com](https://seu-site.com) -->
 
 ---
 

@@ -49,6 +49,9 @@ Atualmente, estou me aprofundando em:
 - **JavaScript Avançado**: Para construir aplicações mais interativas e dinâmicas.
 - **Node.js**: No backend, para entender melhor como construir APIs e lidar com banco de dados.
 - **Design Responsivo**: Criando interfaces que se adaptam a qualquer dispositivo, com foco em acessibilidade.
+- **HTML, CSS**: Bons conhecimentos em criação de sites
+- **Bug Bounty**: Analise de vulnerabilidades e práticas de segurança web.
+- **Banco de dados**: Conhecimentos em bancos de dados, MySQl, PostgreSQL.
 
 ## ✨ Curiosidades
 

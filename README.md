@@ -40,7 +40,7 @@ Aqui estão alguns dos projetos em que estou trabalhando:
 - **[Ursinho Fluffyz](https://github.com/seu-usuario/ursinho-fluffyz)** - Um projeto interativo com sons aconchegantes e movimentos realistas.
 - **[Conversor de Arquivos para PDF](https://github.com/seu-usuario/conversor-pdf)** - Uma aplicação web que converte arquivos para o formato PDF com simplicidade.
 - **[IMC Calculator](https://github.com/seu-usuario/imc-calculator)** - Um projeto para calcular o Índice de Massa Corporal de forma rápida e intuitiva.
-- **[Jogo da Cobrinha](https://github.com/seu-usuario/snake-game)** - Uma recriação do clássico jogo da cobrinha usando HTML, CSS e JavaScript.
+- **[BOT Whattsapp](https://github.com/Clover9999/WhattsApp-BOT)** - Uma recriação do clássico jogo da cobrinha usando HTML, CSS e JavaScript.
 
 ## 🌱 O que estou aprendendo
 

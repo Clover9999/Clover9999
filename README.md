@@ -41,7 +41,7 @@ Aqui estão alguns dos projetos em que estou trabalhando:
 - **[Conversor de Arquivos para PDF](https://github.com/seu-usuario/conversor-pdf)** - Uma aplicação web que converte arquivos para o formato PDF com simplicidade.
 - **[Quiz Interativo](https://clover9999.github.io/quiz/)** - Um projeto para calcular o Índice de Massa Corporal de forma rápida e intuitiva.
 - **[BOT Whattsapp](https://github.com/Clover9999/WhattsApp-BOT)** - Uma recriação do clássico jogo da cobrinha usando HTML, CSS e JavaScript.
-- **[Chat em tempo real]([https://github.com/Clover9999/chatTempoReal)** - Aplicação web de chat em tempo real desenvolvida com HTML, CSS, JavaScript e Firebase Firestore.
+- **[Chat em tempo real](https://github.com/Clover9999/chatTempoReal)** - Aplicação web de chat em tempo real desenvolvida com HTML, CSS, JavaScript e Firebase Firestore.
 
 ## 🌱 O que estou aprendendo
 
